@@ -9,7 +9,7 @@ Links :
 view link : https://www.figma.com/design/XLGxPNYbWALtSTm8YdcBO4/FINOVA-FINANCE-APP?node-id=0-1&t=0GNmd25hBVqckzyL-1
 prototype link : https://www.figma.com/proto/XLGxPNYbWALtSTm8YdcBO4/FINOVA-FINANCE-APP?node-id=0-1&t=0GNmd25hBVqckzyL-1
 
---
+---
 
 ✨ Features
 
